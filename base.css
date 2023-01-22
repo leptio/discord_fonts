@@ -38,7 +38,7 @@
 
 /* Apply styles */
 
-::-webkit-input-placeholder, body, button, input, select, channel_name, textarea {
+::-webkit-input-placeholder, body, button, input, select, channel_name, text-sm-normal, text-sm/normal, userText, userTag, textarea {
     font-family: 'Tamzen', sans-serif !important;
     word-spacing: var(--word-spacing, initial);
     letter-spacing: var(--letter-spacing, initial);
