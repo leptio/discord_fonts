@@ -2,28 +2,28 @@
 
 @font-face {
 	font-family: 'Tamzen';
-	src: url('https://leptio.github.io/discord_fonts/Tamzen10x20r.ttf') format('truetype');
+	src: url('https://leptio.github.io/discord_fonts/Tamzen7x14r.ttf') format('truetype');
 	font-style: normal;
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: 'Tamzen';
-	src: url('https://leptio.github.io/discord_fonts/Tamzen10x20r.ttf') format('truetype');
+	src: url('https://leptio.github.io/discord_fonts/Tamzen7x14r.ttf') format('truetype');
 	font-style: italic;
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: 'Tamzen';
-	src: url('https://leptio.github.io/discord_fonts/Tamzen10x20b.ttf') format('truetype');
+	src: url('https://leptio.github.io/discord_fonts/Tamzen7x14b.ttf') format('truetype');
 	font-weight: bold;
 	font-style: normal;
 } 
 
 @font-face {
 	font-family: 'Tamzen';
-	src: url('https://leptio.github.io/discord_fonts/Tamzen10x20.ttf') format('truetype');
+	src: url('https://leptio.github.io/discord_fonts/Tamzen7x14.ttf') format('truetype');
 	font-weight: bold;
 	font-style: italic;
 }
