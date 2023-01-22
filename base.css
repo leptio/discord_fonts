@@ -33,6 +33,7 @@
 /* Backwards Compatibility */
 
 :root {
+	font-size: 24px;
 	--line-spacing: var(--message-line-spacing);
 }
 
