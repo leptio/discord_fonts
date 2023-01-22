@@ -1,29 +1,29 @@
 /* Import Tamzen */
 
 @font-face {
-    font-family: 'Tamzen';
-    src: url('https://leptio.github.io/discord_fonts/Tamzen8x15r.woff2');
-    font-style: normal;
-    font-weight: normal;
+	font-family: 'Tamzen';
+	src: url('https://leptio.github.io/discord_fonts/Tamzen8x15r.woff');
+	font-style: normal;
+	font-weight: normal;
 }
 
 @font-face {
 	font-family: 'Tamzen';
-	src: url('https://leptio.github.io/discord_fonts/Tamzen8x15r.woff2');
+	src: url('https://leptio.github.io/discord_fonts/Tamzen8x15r.woff');
 	font-style: italic;
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: 'Tamzen';
-	src: url('https://leptio.github.io/discord_fonts/Tamzen8x15b.woff2');
+	src: url('https://leptio.github.io/discord_fonts/Tamzen8x15b.woff');
 	font-weight: bold;
 	font-style: normal;
 } 
 
 @font-face {
 	font-family: 'Tamzen';
-	src: url('https://leptio.github.io/discord_fonts/Tamzen8x15b.woff2');
+	src: url('https://leptio.github.io/discord_fonts/Tamzen8x15b.woff');
 	font-weight: bold;
 	font-style: italic;
 }
