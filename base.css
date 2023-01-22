@@ -33,7 +33,6 @@
 /* Backwards Compatibility */
 
 :root {
-	font-size: 24px !important;
 	--line-spacing: var(--message-line-spacing);
 }
 
@@ -55,5 +54,5 @@
 
 [class*="group-spacing" i] [class*="timestamp"],
 [class*="messageContent-" i] time {
-    font-size: .9rem;
+    font-size: 1.2rem;
 }
