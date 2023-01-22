@@ -40,7 +40,7 @@
 
 ::-webkit-input-placeholder, body, button, input, select, channel_name, text-sm-normal, text-sm, userText, userTag, textarea {
     font-family: 'Tamzen', sans-serif !important;
-    font-size: 1.2rem !important;
+    font-size: 24px !important;
     word-spacing: var(--word-spacing, initial);
     letter-spacing: var(--letter-spacing, initial);
 }
@@ -54,9 +54,6 @@
 /* Scale up timestamps & "Edited" text */
 
 [class*="group-spacing" i] [class*="timestamp"],
-[class*="messageContent-" i] {
-    font-size: 1.2rem;
-}
 [class*="messageContent-" i] time {
     font-size: 0.9rem;
 }
