@@ -38,7 +38,7 @@
 
 /* Apply styles */
 
-::-webkit-input-placeholder, body, button, input, select, channel_name, text-sm-normal, text-sm, userText, userTag, textarea, [class*="tagText"], [class*="lineClamp"], [class*="text-xs"], [class*="name"], [class*="overflow"], [class*="hoverRoll"], [class*="text-sm"] {
+::-webkit-input-placeholder, body, button, input, select, channel_name, text-sm-normal, text-sm, userText, userTag, textarea, span, [class*="tagText"], [class*="lineClamp"], [class*="text-xs"], [class*="name"], [class*="overflow"], [class*="hoverRoll"], [class*="text-sm"], [class*="badgeLabel"], [class*="normal"], [class*="medium"], [class*="title_"], [class*="defaultColor"] {
     font-family: 'Tamzen', sans-serif !important;
     word-spacing: var(--word-spacing, initial);
     letter-spacing: var(--letter-spacing, initial);
