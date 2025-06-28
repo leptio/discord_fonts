@@ -38,7 +38,7 @@
 
 /* Apply styles */
 
-::-webkit-input-placeholder, body, button, input, select, channel_name, text-sm-normal, text-sm, userText, userTag, textarea, [class^="tagText__"], [class^="lineClamp__"], [class^="text-xs__"], [class^="name__"] {
+::-webkit-input-placeholder, body, button, input, select, channel_name, text-sm-normal, text-sm, userText, userTag, textarea, [class^="tagText__"], [class^="lineClamp__"], [class^="text-xs__"], [class^="name__"], [class^="overflow__"], [class^="hoverRoll__"], [class^="text-sm__"] {
     font-family: 'Tamzen', sans-serif !important;
     word-spacing: var(--word-spacing, initial);
     letter-spacing: var(--letter-spacing, initial);
