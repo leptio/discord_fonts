@@ -50,6 +50,44 @@
     line-height: var(--message-line-spacing, initial) !important;
 }
 
+
+.chatContent-3KubbW .rolecolor-mention, .chatContent-3KubbW .mentioned-Tre-dv .rolecolor-mention {
+    font-family: 'Tamzen', sans-serif !important;
+    word-spacing: var(--word-spacing, initial);
+    letter-spacing: var(--letter-spacing, initial);
+}
+
+.rolecolor-mention:hover, .mentioned-Tre-dv .rolecolor-mention:hover {
+    font-family: 'Tamzen', sans-serif !important;
+    word-spacing: var(--word-spacing, initial);
+    letter-spacing: var(--letter-spacing, initial);
+}
+
+.headerNormal-3Zn_yu .rolecolor-colored-userpopout, .rolecolor-colored {
+    font-family: 'Tamzen', sans-serif !important;
+    word-spacing: var(--word-spacing, initial);
+    letter-spacing: var(--letter-spacing, initial);
+}
+
+.headerNormal-3Zn_yu .rolecolor-colored-userpopout > span:not(.botTag-2mryIa),
+.rolecolor-colored > * {
+    font-family: 'Tamzen', sans-serif !important;
+    word-spacing: var(--word-spacing, initial);
+    letter-spacing: var(--letter-spacing, initial);
+}
+
+.headerNormal-3Zn_yu .rolecolor-colored-userpopout span:not([class]) {
+    font-family: 'Tamzen', sans-serif !important;
+    word-spacing: var(--word-spacing, initial);
+    letter-spacing: var(--letter-spacing, initial);
+}
+
+.rolecolor-mention, .rolecolor-colored, .rolecolor-colored .activity-2EQDZv {
+    font-family: 'Tamzen', sans-serif !important;
+    word-spacing: var(--word-spacing, initial);
+    letter-spacing: var(--letter-spacing, initial);
+}
+
 /* Scale up timestamps & "Edited" text */
 
 [class*="group-spacing" i] [class*="timestamp"],
