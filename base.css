@@ -88,6 +88,18 @@
     letter-spacing: var(--letter-spacing, initial);
 }
 
+[data-text-variant] {
+    font-family: 'Tamzen', sans-serif !important;
+    word-spacing: var(--word-spacing, initial);
+    letter-spacing: var(--letter-spacing, initial);
+}
+
+div[class*="lineClamp1__"][data-text-variant="text-sm/medium"] {
+    font-family: 'Tamzen', sans-serif !important;
+    word-spacing: var(--word-spacing, initial);
+    letter-spacing: var(--letter-spacing, initial);
+}
+
 /* Scale up timestamps & "Edited" text */
 
 [class*="group-spacing" i] [class*="timestamp"],
